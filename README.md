@@ -3,11 +3,7 @@
 > 本项目是《码农周刊》架构学习资料精选，**码农周刊团队官方出品**。架构师必读，助你早日成为架构师！
 
 **架构师技术图谱**包括：分布式、前端、大数据、存储、微服务、推荐系统、框架 、消息队列、编程语言、设计模式、重构、集群等内容。<br/>
-体验**小程序版「架构师技术图谱」**，扫描下方微信小程序码即可。<br/>
-<img src="https://img.toutiao.io/ads/architecture_qrcode_200x200.png"><br/>
-欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
-**如何加入读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
-<img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
+<img src="https://xiaochengxu-img.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_9d5a1337835a_430.jpg"><br/>
 
 - [分布式](#分布式)
 - [前端](#前端)
@@ -1066,5 +1062,3 @@
 - [Sky Walking：对 Java 分布式应用程序集群业务运行情况进行追踪、告警和分析的系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagpnck&aid=5541&nid=109)
 
 <br/>
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
